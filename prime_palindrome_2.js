@@ -61,6 +61,9 @@ function oneDigit(num)
               }
            }
     }
+var n = 100;
+    document.write('Palindromic primes smaller than or equal to '+n+' are :<br>');
+    printPalPrimesLessThanN(n);
      
     
    
