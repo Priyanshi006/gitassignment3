@@ -2,7 +2,7 @@ function oneDigit(num)
     {
         
         return (num >= 0 && num < 10);
-     }   
+    }   
       
     
     function isPalUtil(num , dupNum)
